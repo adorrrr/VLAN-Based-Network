@@ -6,7 +6,7 @@ This project was completed as part of the **Data Communication final course proj
 
 The network is designed to support multiple LANs and WAN links while ensuring efficient routing and end-to-end connectivity across all segments.
 
----
+
 
 ## 🧩 Network Features
 
@@ -19,7 +19,7 @@ The network is designed to support multiple LANs and WAN links while ensuring ef
 * Proper **IPv4 subnet planning**
 * End-to-end connectivity verification using testing tools (ping, traceroute)
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -29,7 +29,7 @@ The network is designed to support multiple LANs and WAN links while ensuring ef
 * **VLAN Configuration**
 * Cisco **Router and Switch Configuration**
 
----
+
 
 ## 📂 Project Files
 
@@ -39,7 +39,7 @@ The network is designed to support multiple LANs and WAN links while ensuring ef
 * `VLAN RIP Network.png`
   *Network topology diagram illustrating routers, switches, VLANs, and WAN links.*
 
----
+
 
 ## 🎯 Learning Outcomes
 
@@ -51,7 +51,7 @@ Through this project, the following skills were developed:
 * Applying **subnetting concepts** in real-world scenarios
 * Troubleshooting and validating **end-to-end network connectivity**
 
----
+
 
 ## 🚀 How to Use
 
